@@ -1,0 +1,35 @@
+{
+  "questions" : [
+    {
+      "q": "Question 1: In which year did you escape?",
+      "a": ["1997", "2013"],
+      "NY": "1 pt",
+      "LA": "1 pt"
+    },
+    {
+      "q": "Question 2: What caused the root of all of the chaos?",
+      "a": ["An earthquake", "World War 3"],
+      "LA": "1 pt",
+      "NY": "1 pt"
+    },
+    {
+      "q": "Question 3: The president tries to stop an invasion from where?",
+      "a": ["Cuba", "Soviet Union"],
+      "LA": "1 pt",
+      "NY": "1 pt"
+    },
+    {
+      "q": "Question 4: Where was an island converted into a prison?",
+      "a": ["LA", "Manhattan"],
+      "LA": "1 pt",
+      "NY": "1 pt"
+    },
+    {
+      "q":
+        "Question 5: Warning.. SPOILER ALERT: At the end of the movie, the main character Snake, does what?",
+      "a": ["Puffs a cigarette while going into the darkness", "Picks a cigarette box labeled 'American spirit'"],
+      "NY": "1 pt",
+      "LA": "1 pt"
+    }
+  ]
+}
